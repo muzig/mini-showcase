@@ -27,7 +27,7 @@
                             height: 250rpx;
                         "
                         mode="aspectFill"
-                        src="http://172.20.110.32/images/simple.jpg"
+                        src="http://47.95.202.206/images/123.jpeg"
                     ></image>
                 </view>
             </uni-grid-item>
